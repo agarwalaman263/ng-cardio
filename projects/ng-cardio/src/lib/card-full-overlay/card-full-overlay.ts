@@ -28,7 +28,6 @@ import { EachCardDetails } from './Models';
     row-gap: 100px;
     column-gap: 100px;
     grid-template-rows: auto;
-    justify-content: center;
 }
 
 .each-card {
